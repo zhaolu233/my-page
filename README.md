@@ -1,5 +1,5 @@
 # A website for starters in neuroscience
----
+
 + [Definition](#1)
 + [Research Areas](#2)
 + [Technologies](#3)
