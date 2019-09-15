@@ -1,8 +1,9 @@
 # A website for starters in neuroscience
 ---
 ## What is neuroscience?
-[**Neuroscience** (or neurobiology) is the scientific study of the nervous system. It is a *multidisciplinary* branch of biology that combines physiology, anatomy, molecular biology, developmental biology, cytology, mathematical modeling and psychology to understand the fundamental and emergent properties of neurons and neural circuits.](https://en.wikipedia.org/wiki/Neuroscience "an introduction of neuroscience")
----
+###### **Neuroscience** (or neurobiology) is the scientific study of the nervous system. It is a *multidisciplinary* branch of biology that combines physiology, anatomy, molecular biology, developmental biology, cytology, mathematical modeling and psychology to understand the fundamental and emergent properties of neurons and neural circuits.(from [wikipedia](https://en.wikipedia.org/wiki/Neuroscience "an introduction of neuroscience"))
+
+![human brain](http://www.yaabot.com/wp-content/uploads/2015/12/yaabot_brain_1.jpg "human brain")
 ## What kinds of questions are we interested of?
 #### Neural diseases
 1. Parkinson's disease
@@ -38,7 +39,6 @@
 + [Nature](https://www.nature.com/index.html "Nature")
 + [Nature Neuroscience](https://www.nature.com/neuro/ "Nature Neuroscience")
 + [Annual Review of Neuroscience](http://neuro.annualreviews.org "Annual Review of Neuroscience")
-+ [Nature Review Neuroscience](Nature Review Neuroscience "Nature Review Neuroscience")
 + [Neuron](http://www.neuron.org "Neuron")
 + [The Journal of Neuroscience](https://www.jneurosci.org "The Journal of Neuroscience")
 + [Cerebral Cortex](http://cercor.oxfordjournals.org "Cerebral Cortex")
@@ -47,4 +47,3 @@
 ## Some useful pages for brain science researchers
 + [Neurotree](https://neurotree.org "neurotree")
 + [Society for neuroscience](https://www.sfn.org "sfn")
-
