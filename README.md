@@ -8,7 +8,7 @@
 
  <h2 id="1">What is neuroscience?</h2>
 
-###### **Neuroscience** (or neurobiology) is the scientific study of the nervous system. It is a *multidisciplinary* branch of biology that combines physiology, anatomy, molecular biology, developmental biology, cytology, mathematical modeling and psychology to understand the fundamental and emergent properties of neurons and neural circuits.(from [wikipedia](https://en.wikipedia.org/wiki/Neuroscience "an introduction of neuroscience"))
+ **Neuroscience** (or neurobiology) is the scientific study of the nervous system. It is a *multidisciplinary* branch of biology that combines physiology, anatomy, molecular biology, developmental biology, cytology, mathematical modeling and psychology to understand the fundamental and emergent properties of *neurons* and *neural circuits*.(from [wikipedia](https://en.wikipedia.org/wiki/Neuroscience "an introduction of neuroscience"))
 
 ![human brain](http://www.yaabot.com/wp-content/uploads/2015/12/yaabot_brain_1.jpg "human brain")
 
